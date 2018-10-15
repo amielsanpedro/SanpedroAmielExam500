@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">TulaylayKristianLab3</string>
+    <string name="product_details">Product details</string>
+    <string name="shipping_and_returns">Shipping and Returns</string>
+    <string name="button">Button</string>
+    <string name="buttons" tools:ignore="DuplicateDefinition">Button</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="sizes">Sizes</string>
+</resources>
